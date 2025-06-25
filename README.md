@@ -20,3 +20,16 @@ This repo uses Git submodules to include useful external projects. Run the follo
 ```bash
 git clone --recurse-submodules https://github.com/clockworkpc/system-design-research.git
 cd system-design-research
+```
+
+### Initialize and Update
+
+If you cloned this repository non-recursively, i.e. simply `git clone`, you can update all the submodules by running the included BASH script:
+
+```
+cd system-design-research
+chmod +x init_and_update.sh
+"./init_and_update.sh"
+```
+
+You can also run this periodically to get the latest and greatest from the submodules.
