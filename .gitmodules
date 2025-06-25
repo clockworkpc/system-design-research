@@ -1,0 +1,15 @@
+[submodule "system-design-primer"]
+	path = system-design-primer
+	url = https://github.com/donnemartin/system-design-primer
+[submodule "devops-exercises"]
+	path = devops-exercises
+	url = https://github.com/bregman-arie/devops-exercises
+[submodule "full-stack-fastapi-template"]
+	path = full-stack-fastapi-template
+	url = https://github.com/fastapi/full-stack-fastapi-template
+[submodule "pdm"]
+	path = pdm
+	url = https://github.com/pdm-project/pdm
+[submodule "saleor"]
+	path = saleor
+	url = https://github.com/saleor/saleor
